@@ -1,0 +1,15 @@
+{
+  "assets": [
+    {
+      "type": "Bitmap",
+      "name": "YesButton",
+      "file": "img/Dialogue/YesButton.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "NoButton",
+      "file": "img/Dialogue/NoButton.png"
+    }
+
+  ]
+}

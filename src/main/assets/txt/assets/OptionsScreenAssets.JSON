@@ -1,0 +1,119 @@
+{
+  "assets": [
+    {
+      "type": "Bitmap",
+      "name": "OptionsScreenBackgroundImage",
+      "file": "img/OptionsScreenBackgroundImage.png"
+    },
+    {
+      "type": "Music",
+      "name": "MainGameBackgroundMusic",
+      "file": "sound/main-game-music.mp3"
+    },
+    {
+      "type": "Bitmap",
+      "name": "BackArrowSelected",
+      "file": "img/BackArrowSelected.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "ToggleOn",
+      "file": "img/toggle_on.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "ToggleOff",
+      "file": "img/toggle_off.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "False",
+      "file": "img/false.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "True",
+      "file": "img/true.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "IncreaseVolume",
+      "file": "img/PlusButton.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "HowToPlayScreenIcon",
+      "file": "img/howToPlayIcon.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "DecreaseVolume",
+      "file": "img/MinusButton.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "DecreaseVolumeClicked",
+      "file": "img/MinusButtonSelected.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "IncreaseVolumeClicked",
+      "file": "img/PlusButtonSelected.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "SoundOff",
+      "file": "img/mute.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "SoundOn",
+      "file": "img/unmute.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "SliderBorder",
+      "file": "img/sliderBorder.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "PerformanceIcon",
+      "file": "img/PerformanceIcon.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "MenuIcon",
+      "file": "img/menu_icon.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "ResumeIcon",
+      "file": "img/resume-game.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "ResumeIconDisabled",
+      "file": "img/resume-game-disabled.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "PerformanceIconSelected",
+      "file": "img/PerformanceIconSelected.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Slider",
+      "file": "img/slider.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "SliderBorder",
+      "file": "img/sliderBorder.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "SettingsBackgroundImage",
+      "file": "img/settings_background_image.PNG"
+    }
+  ]
+}

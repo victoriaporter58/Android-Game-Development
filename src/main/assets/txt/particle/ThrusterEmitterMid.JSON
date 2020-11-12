@@ -1,0 +1,21 @@
+
+{
+  "name": "SmokeEmitter",
+
+  "emitterMode": "Continuous",
+
+  "particleSettings": "txt/particle/ThrusterParticleMid.JSON",
+
+  "minParticleDensity": 25,
+
+  "maxParticleDensity": 60,
+
+  "blendMode": "Additive",
+
+  "accelerationMode": "Aligned",
+
+  "velocityBias": -1.0,
+
+  "applyGravity": false
+
+}

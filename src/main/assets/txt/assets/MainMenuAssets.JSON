@@ -1,0 +1,34 @@
+{
+  "assets": [
+    {
+      "type": "Music",
+      "name": "MainGameBackgroundMusic",
+      "file": "sound/main-game-music.mp3"
+    },
+    {
+      "type": "Bitmap",
+      "name": "PlayButton",
+      "file": "img/PlayButton.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "PlayButtonSelected",
+      "file": "img/PlayButtonSelected.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "OptionsButton",
+      "file": "img/OptionsButton.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "OptionsButtonSelected",
+      "file": "img/OptionsButtonSelected.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "MainMenuBackground",
+      "file": "img/MainMenuBackground.png"
+    }
+  ]
+}

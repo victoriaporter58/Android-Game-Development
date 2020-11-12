@@ -1,0 +1,59 @@
+{
+  "assets": [
+    {
+      "type": "Bitmap",
+      "name": "MenuIcon",
+      "file": "img/menu_icon.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Error",
+      "file": "img/error_image.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "NextPageButton",
+      "file": "img/next_button.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "PreviousPageButton",
+      "file": "img/previous_button.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "EnlargedCardScreenshot",
+      "file": "img/exampleEnlargedCardScreenshot.PNG"
+    },
+    {
+      "type": "Bitmap",
+      "name": "DragCardScreenshot",
+      "file": "img/drag_card_to_board_screenshot.PNG"
+    },
+    {
+      "type": "Bitmap",
+      "name": "DragCardToAvatarScreenshot",
+      "file": "img/drag_card_to_avatar.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "EndTurnScreenshot",
+      "file": "img/end_turn_screenshot.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "DragCardToCardScreenshot",
+      "file": "img/drag_card_to_card_screenshot.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "BackButton",
+      "file": "img/BackArrow.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "BackButtonSelected",
+      "file": "img/BackArrowSelected.png"
+    }
+  ]
+}

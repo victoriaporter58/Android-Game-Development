@@ -1,0 +1,96 @@
+{
+  "cards" : [
+   {
+      "cardName": "Trees",
+      "cardText": "some trees",
+      "cost": 1,
+      "attack":1,
+      "health": 1,
+      "portrait": "Tree",
+      "ability" : "",
+      "amount": 7
+    },
+    {
+      "cardName": "Big Trees",
+      "cardText": "some big trees",
+      "cost": 2,
+      "attack":2,
+      "health": 2,
+      "portrait": "Big Tree",
+      "ability" : "",
+      "amount": 5
+    },
+    {
+      "cardName": "Wall of Trees",
+      "cardText": "A Tree Wall",
+      "cost": 3,
+      "attack":2,
+      "health": 2,
+      "portrait": "Big Tree",
+      "ability" : "Defend",
+      "amount": 4
+    },
+    {
+      "cardName": "Eco Warrior",
+      "cardText": "smells like broccoli",
+      "cost": 3,
+      "attack":3,
+      "health": 1,
+      "portrait": "Eco Warrior",
+      "ability" : "",
+      "amount": 3
+    },
+    {
+      "cardName": "Recycling Centre",
+      "cardText": "recycle your enemies",
+      "cost": 4,
+      "attack":1,
+      "health": 5,
+      "portrait": "Recycling Centre",
+      "ability" : "Defend",
+      "amount": 2
+    },
+    {
+      "cardName": "Bottle Bank",
+      "cardText": "reuse the glass",
+      "cost": 3,
+      "attack":2,
+      "health": 2,
+      "portrait": "Bottle Bank",
+      "ability" : "Rush",
+      "amount": 2
+    },
+    {
+      "cardName": "Wind Farm",
+      "cardText": "energy for free",
+      "cost": 4,
+      "attack":3,
+      "health": 4,
+      "portrait": "Wind Farm",
+      "ability" : "",
+      "amount": 2
+    },
+    {
+      "cardName": "Solar Farm",
+      "cardText": "energy for free",
+      "cost": 4,
+      "attack": 2,
+      "health": 4,
+      "portrait": "Solar Farm",
+      "ability" : "Defend",
+      "amount": 2
+    },
+
+    {
+      "cardName": "Mother Earth",
+      "cardText": "shes ready to purge",
+      "cost": 6,
+      "attack": 1,
+      "health": 9,
+      "portrait": "GaiaCard",
+      "ability" : "Defend",
+      "amount": 1
+    }
+  ]
+}
+

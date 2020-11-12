@@ -1,0 +1,19 @@
+{
+  "assets": [
+    {
+      "type": "Music",
+      "name": "OptionsBackgroundMusic0",
+      "file": "sound/tchaikovsky-waltz-of-the-flowers.mp3"
+    },
+    {
+      "type": "Music",
+      "name": "OptionsBackgroundMusic1",
+      "file": "sound/options-menu-music.mp3"
+    },
+    {
+      "type": "Music",
+      "name": "OptionsBackgroundMusic",
+      "file": "sound/InPursuitOfSilence.mp3"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "assets": [
+    {
+      "type": "Bitmap",
+      "name": "Victory",
+      "file" : "img/YouWon.jpg"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Defeat",
+      "file" : "img/YouLost.jpg"
+    },
+    {
+      "type": "Bitmap",
+      "name": "mainMenuButton",
+      "file" : "img/MainMenuButton.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "mainMenuButtonSelected",
+      "file" : "img/MainMenuButtonSelected.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "playAgainButton",
+      "file" : "img/PlayAgainButton.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "playAgainButtonSelected",
+      "file" : "img/PlayAgainButtonSelected.png"
+    }
+  ]
+}

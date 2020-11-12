@@ -1,0 +1,19 @@
+{
+  "assets" : [
+    {
+      "type": "Bitmap",
+      "name": "OakKing",
+      "file": "img/CharacterSelectScreen/oakKing.jpg"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Gaia",
+      "file": "img/CharacterSelectScreen/Chargaia.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Fortuna",
+      "file": "img/CharacterSelectScreen/Fortuna.jpg"
+    }
+  ]
+}

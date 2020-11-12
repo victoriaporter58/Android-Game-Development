@@ -1,0 +1,13 @@
+Below are what values are labelled as in the SharedPreferences
+
+Label					    | Data Type	|
+---------------------------------------------------------
+				OptionsScreen
+---------------------------------------------------------
+masterVolumeOn  			| Boolean	|
+mainGameActive  			| Boolean	|
+fpsCounterOn      			| Boolean	|
+musicVolume 				| float		|
+sliderXcoordinate			| float		|
+testBooleanLabel  			| Boolean	|
+testFloatLabel  			| Boolean	|

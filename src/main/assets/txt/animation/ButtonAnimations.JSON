@@ -1,0 +1,21 @@
+{
+  "spritesheet" : "img/AnimatedButtonsSpriteSheet.png",
+  "numRows" : 4,
+  "numColumns" : 6,
+  "animations": [
+    {
+      "name": "PlayButtonPulse",
+      "startFrame" : 0,
+      "endFrame" : 11,
+      "totalPeriod" : 2.0,
+      "loopAnimation" : true
+    },
+    {
+      "name": "OptionsButtonPulse",
+      "startFrame" : 12,
+      "endFrame" : 23,
+      "totalPeriod" : 2.0,
+      "loopAnimation" : true
+    }
+  ]
+}

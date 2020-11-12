@@ -1,0 +1,59 @@
+{
+  "assets": [
+    {
+      "type": "Bitmap",
+      "name": "SpaceBackground",
+      "file": "img/SpaceBackground.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Asteroid1",
+      "file": "img/Asteroid1.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Asteroid2",
+      "file": "img/Asteroid2.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Asteroid3",
+      "file": "img/Asteroid3.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Asteroid4",
+      "file": "img/Asteroid4.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Spaceship1",
+      "file": "img/Spaceship1.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Spaceship2",
+      "file": "img/Spaceship2.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Spaceship3",
+      "file": "img/Spaceship3.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Turret",
+      "file": "img/Turret.png"
+    },
+    {
+      "type": "Music",
+      "name": "SpaceBGM",
+      "file": "sound/BlargStation.mp3"
+    },
+    {
+      "type": "Sound",
+      "name": "SpaceshipSound",
+      "file" : "sound/beepbeep.wav"
+    }
+  ]
+}

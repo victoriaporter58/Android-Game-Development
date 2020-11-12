@@ -1,0 +1,19 @@
+{
+  "assets": [
+    {
+      "type": "Bitmap",
+      "name": "CoinHead",
+      "file": "img/CoinHead.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "CoinTail",
+      "file": "img/CoinTail.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "SoilBackground",
+      "file": "img/soil_bg.jpg"
+    }
+  ]
+}

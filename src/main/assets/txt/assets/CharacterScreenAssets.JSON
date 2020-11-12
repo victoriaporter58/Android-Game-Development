@@ -1,0 +1,24 @@
+{
+  "assets": [
+    {
+      "type": "Bitmap",
+      "name": "Frame",
+      "file": "img/CharacterSelectScreen/Frame.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "FrameSelected",
+      "file": "img/CharacterSelectScreen/FrameSelected.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "BackArrow",
+      "file": "img/BackArrow.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "BackArrowSelected",
+      "file": "img/BackArrowSelected.png"
+    }
+  ]
+}

@@ -1,0 +1,429 @@
+{
+  "assets": [
+    {
+      "type": "Music",
+      "name": "MainGameBackgroundMusic",
+      "file": "sound/main-game-music.mp3"
+    },
+    {
+      "type": "Bitmap",
+      "name": "HowToPlayScreenIcon",
+      "file": "img/howToPlayIcon.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "BoardBackground",
+      "file" : "img/soil_bg.jpg"
+    },
+    {
+      "type": "Bitmap",
+      "name": "EnlargedCardBackdrop",
+      "file" : "img/enlargeCardBackdrop.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Banner",
+      "file" : "img/banner.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "InvisibleIcon",
+      "file" : "img/invisibleIcon.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "MenuIcon",
+      "file": "img/menu_icon.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "BackArrow",
+      "file": "img/BackArrow.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "BackArrowSelected",
+      "file": "img/BackArrowSelected.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "EndTurnButton",
+      "file": "img/EndTurnButton.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "EndTurnButtonSelected",
+      "file": "img/EndTurnButtonSelected.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "EnemyTurnButton",
+      "file": "img/EnemyTurnButton.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "CardBackground",
+      "file": "img/CardBackground.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "CardBack",
+      "file": "img/CardBackground1.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "CardPortrait",
+      "file": "img/CardPortrait.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "CardGrey",
+      "file": "img/CardGrey.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "1",
+      "file": "img/1.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "2",
+      "file": "img/2.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "3",
+      "file": "img/3.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "4",
+      "file": "img/4.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "5",
+      "file": "img/5.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "6",
+      "file": "img/6.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "7",
+      "file": "img/7.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "8",
+      "file": "img/8.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "9",
+      "file": "img/9.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "10",
+      "file": "img/10.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "11",
+      "file": "img/11.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "12",
+      "file": "img/12.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "13",
+      "file": "img/13.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "14",
+      "file": "img/14.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "15",
+      "file": "img/15.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "16",
+      "file": "img/16.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "17",
+      "file": "img/17.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "18",
+      "file": "img/18.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "19",
+      "file": "img/19.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "20",
+      "file": "img/20.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "21",
+      "file": "img/21.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "22",
+      "file": "img/22.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "23",
+      "file": "img/23.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "24",
+      "file": "img/24.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "25",
+      "file": "img/25.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "26",
+      "file": "img/26.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "27",
+      "file": "img/27.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "28",
+      "file": "img/28.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "29",
+      "file": "img/29.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "30",
+      "file": "img/30.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "0",
+      "file": "img/0.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "GaiaCard",
+      "file" : "img/gaia.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Oak King",
+      "file" : "img/oakKing.jpg"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Fortuna",
+      "file": "img/Fortuna.jpg"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Solar Farm",
+      "file" : "img/solarFarm.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Wind Farm",
+      "file" : "img/windFarm.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Bottle Bank",
+      "file" : "img/bottleBank.jpg"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Recycling Centre",
+      "file" : "img/recyclingCentre.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Eco Warrior",
+      "file" : "img/ecoWarrior.jpg"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Big Tree",
+      "file" : "img/bigTree.jpg"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Tree",
+      "file" : "img/tree.jpg"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Board",
+      "file" : "img/board_basic.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "TurnIndicatorOn",
+      "file" : "img/green_led.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "TurnIndicatorOff",
+      "file" : "img/red_led.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "EnemyIcon",
+      "file": "img/industry_icon.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "GrassAvatarSlot",
+      "file" : "img/GrassAvatarSlot.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "GrassBoardCard",
+      "file" : "img/GrassBoardCard.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "GrassDiscardPile",
+      "file" : "img/GrassDiscardPile.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "StoneAvatarSlot",
+      "file" : "img/StoneAvatarSlot.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "StoneBoardCard",
+      "file" : "img/StoneBoardCard.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "StoneDiscardPile",
+      "file" : "img/StoneDiscardpile.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "HandCard",
+      "file" : "img/HandCardSpace.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "SettingsIcon",
+      "file" : "img/settings_icon.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "SettingsIconPushed",
+      "file" : "img/settings_icon_pushed.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "playerPortrait",
+      "file" : "img/playerPortrait.jpg"
+    },
+    {
+      "type": "Bitmap",
+      "name": "enemyPortrait",
+      "file" : "img/enemyPortrait.jpg"
+    },
+    {
+      "type": "Bitmap",
+      "name": "playerPortraitFrame",
+      "file" : "img/playerPortraitFrame.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "enemyPortraitFrame",
+      "file" : "img/enemyPortraitFrame.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Rush",
+      "file" : "img/rush.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Defend",
+      "file" : "img/Defend.png"
+    },
+    {
+      "type": "Bitmap",
+      "name": "Mana",
+      "file" : "img/Mana.png"
+    },
+    {
+      "type": "Sound",
+      "name": "Attack",
+      "file" : "sound/attack.mp3"
+    },
+    {
+      "type": "Sound",
+      "name": "Attack2",
+      "file" : "sound/attack2.mp3"
+    },
+    {
+      "type": "Sound",
+      "name": "Death",
+      "file" : "sound/death.mp3"
+    },
+    {
+      "type": "Sound",
+      "name": "Mana",
+      "file" : "sound/mana.mp3"
+    },
+    {
+      "type": "Sound",
+      "name": "Rush",
+      "file" : "sound/rush.mp3"
+    },
+    {
+      "type": "Sound",
+      "name": "Defend",
+      "file" : "sound/shield.mp3"
+    },
+    {
+      "type": "Sound",
+      "name": "DrawCard",
+      "file" : "sound/drawCard.mp3"
+    },
+    {
+      "type": "Sound",
+      "name": "PlayCard",
+      "file" : "sound/PlaceCard.mp3"
+    }
+  ]
+}
